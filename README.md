@@ -11,7 +11,7 @@ If you want to mount the USB drive back into the ArOZ Online System, simply sele
 You will see all filename are being read correctly after the USB is plugged back into your ArOZ Host Device.
 
 ## Download
-
+See [release list](https://github.com/tobychui/ArUSB2Win/releases) for the latest build.
 ## Preview
 ![](Resources/ui.png)
 
