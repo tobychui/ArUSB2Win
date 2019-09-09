@@ -17,7 +17,13 @@ Public Class Form1
         Label1.Text = "Version: " & My.Application.Info.Version.ToString()
         If Not My.Computer.FileSystem.FileExists("fsconv.exe") Then
             MsgBox("Missing fsconv.exe. Downloading from network location.")
-            My.Computer.Network.DownloadFile("http://git.hkwtc.org/TC/fsconv/raw/c2135606ad0d6ab69cd95f678eb0af19462a3808/fsconv.exe", "fsconv.exe")
+            Try
+                My.Computer.Network.DownloadFile("https://hkwtc.org/aroz_online/hook/AOS-Mirror/src/SystemAOB/functions/file_system/fsconv.exe", "fsconv.exe")
+            Catch ex As Exception
+                MessageBox.Show("Unable to download fsconv! Please check your internet connection and try again later.", "Failed to download fsconv", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                Me.Close()
+            End Try
+
             MsgBox("fsconv.exe downloaded.")
         End If
     End Sub
