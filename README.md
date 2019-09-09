@@ -29,4 +29,4 @@ Distributed under the MIT License. See LICENSE for more information.
 **The fsconv is not part of the project. However, we got permission to open source our tool with the fsconv binary included**
 
 ## Contact
-You can find me at ![](https://www.facebook.com/ImusLaboratory/) if you need any help regarding the use of this application.
+You can find me over [here](https://www.facebook.com/ImusLaboratory/) if you need any help regarding the use of this application.
