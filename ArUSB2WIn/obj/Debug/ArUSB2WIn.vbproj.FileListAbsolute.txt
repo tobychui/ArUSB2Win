@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Projects\ArUSB2WIn\ArUSB2WIn\bin\Debug\ArUSB2WIn.exe.config
+C:\Users\user\Desktop\Projects\ArUSB2WIn\ArUSB2WIn\bin\Debug\ArUSB2WIn.exe
+C:\Users\user\Desktop\Projects\ArUSB2WIn\ArUSB2WIn\bin\Debug\ArUSB2WIn.pdb
+C:\Users\user\Desktop\Projects\ArUSB2WIn\ArUSB2WIn\bin\Debug\ArUSB2WIn.xml
+C:\Users\user\Desktop\Projects\ArUSB2WIn\ArUSB2WIn\obj\Debug\ArUSB2WIn.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\Projects\ArUSB2WIn\ArUSB2WIn\obj\Debug\ArUSB2WIn.Form1.resources
+C:\Users\user\Desktop\Projects\ArUSB2WIn\ArUSB2WIn\obj\Debug\ArUSB2WIn.Resources.resources
+C:\Users\user\Desktop\Projects\ArUSB2WIn\ArUSB2WIn\obj\Debug\ArUSB2WIn.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\Projects\ArUSB2WIn\ArUSB2WIn\obj\Debug\ArUSB2WIn.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\ArUSB2WIn\ArUSB2WIn\obj\Debug\ArUSB2WIn.exe
+C:\Users\user\Desktop\Projects\ArUSB2WIn\ArUSB2WIn\obj\Debug\ArUSB2WIn.xml
+C:\Users\user\Desktop\Projects\ArUSB2WIn\ArUSB2WIn\obj\Debug\ArUSB2WIn.pdb
