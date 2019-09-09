@@ -17,7 +17,7 @@ Public Class Form1
         Label1.Text = "Version: " & My.Application.Info.Version.ToString()
         If Not My.Computer.FileSystem.FileExists("fsconv.exe") Then
             MsgBox("Missing fsconv.exe. Downloading from network location.")
-            My.Computer.Network.DownloadFile("https://git.hkwtc.org/TC/fsconv/raw/c2135606ad0d6ab69cd95f678eb0af19462a3808/fsconv.exe", "fsconv.exe")
+            My.Computer.Network.DownloadFile("http://git.hkwtc.org/TC/fsconv/raw/c2135606ad0d6ab69cd95f678eb0af19462a3808/fsconv.exe", "fsconv.exe")
             MsgBox("fsconv.exe downloaded.")
         End If
     End Sub

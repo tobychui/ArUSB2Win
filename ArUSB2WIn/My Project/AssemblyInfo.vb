@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' 檢閱組件屬性的值
 
-<Assembly: AssemblyTitle("ArUSB2WIn")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("ArUSB2WIn")>
-<Assembly: AssemblyCopyright("Copyright © imuslab 2019")>
+<Assembly: AssemblyTitle("ArUSB2Win")>
+<Assembly: AssemblyDescription("Mount ArOZ Storage Device on Windows")>
+<Assembly: AssemblyCompany("imuslab")>
+<Assembly: AssemblyProduct("ArUSB2Win")>
+<Assembly: AssemblyCopyright("Copyright © tobychui 2019")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' 指定為預設值: 
 ' <Assembly: AssemblyVersion("1.0.*")>
 
-<Assembly: AssemblyVersion("1.0.0.2")>
+<Assembly: AssemblyVersion("1.0.1.0")>
 <Assembly: AssemblyFileVersion("1.0.0.0")>
